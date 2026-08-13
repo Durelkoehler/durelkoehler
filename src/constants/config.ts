@@ -67,7 +67,7 @@ export const PROJECTS: Project[] = [
       "Design and development of an immersive website showcasing authentic tourism and cultural heritage in Benin (Ganvié, Ouidah, Grand-Popo). The site combines strong visual storytelling with a sleek layout and an intuitive navigation system designed to drive excursion bookings.",
     category: "Website Development",
     year: "2024",
-    link: "https://experiencebénin.com",
+    link: "https://experiencebenin.com",
     accent: "from-emerald-500 to-teal-600",
     image: "/experience benin.png",
   },
@@ -100,11 +100,11 @@ export const EXPERIENCES: Experience[] = [
     details: [
       "Designed, developed, and revamped custom WordPress websites, focusing on performance, UX/UI, and tailored responsive layouts.",
       "Produced high-impact visual assets and marketing materials for international organizations and local institutions (CECI Bénin, CDEL, among others).",
-      "Collaborated closely with production teams to maintain brand consistency across both digital platforms and graphic collateral."
+      "Collaborated closely with production teams to maintain brand consistency across both digital platforms and graphic collateral.",
     ],
   },
 
-   {
+  {
     id: "03",
     role: "Co-Founder & Lead Digital Designer",
     company: "Brhocom",
@@ -112,7 +112,7 @@ export const EXPERIENCES: Experience[] = [
     details: [
       "Co-founded Brhocom, delivering strategic digital design, WordPress development, and branding solutions to private clients and agencies.",
       "Provide end-to-end consulting for custom web projects, brand identity development, and visual communication assets.",
-      "Collaborated closely with production teams to maintain brand consistency across both digital platforms and graphic collateral."
+      "Collaborated closely with production teams to maintain brand consistency across both digital platforms and graphic collateral.",
     ],
   },
 ];
