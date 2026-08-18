@@ -35,7 +35,7 @@ export async function sendEmail(
 
     const from =
       process.env.EMAIL_FROM || "Durel Koehler <onboarding@resend.dev>";
-    const to = process.env.EMAIL_TO || "onboarding@resend.dev";
+    const to = process.env.EMAIL_TO || "durelkoehler26@gmail.com";
 
     const subject = `New contact request from ${email}`;
     const text = `From: ${email}\n\nMessage:\n${message}`;
